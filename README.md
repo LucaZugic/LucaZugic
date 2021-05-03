@@ -17,3 +17,5 @@ Below is an example of the visualisation done of the average activity recorded b
 ### Thank you for checking out my GitHub page
 Feel free to also check out my:
 [Website](https://lucazugic.github.io) | [LinkedIn](https://linkedin.com/in/lucazugic) | [ResearchGate](https://researchgate.net/profile/luca-zugic)
+You can contact me directly at:
+[contact.zugic@gmail.com](mailto:contact.zugic@gmail.com)
