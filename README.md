@@ -12,4 +12,5 @@ Further, you will find some personal scripts and general programming solutions.
 I am currently working on actually putting some more things up on here which are currently under development (after finals exams).
 
 #### Thank you for checking out my GitHub page.
-Feel free to check out my [Website](https://lucazugic.github.io) [LinkedIn](https://linkedin.com/in/lucazugic) [ResearchGate](https://researchgate.net/profile/luca-zugic)
+Feel free to also check out my:
+[Website](https://lucazugic.github.io) | [LinkedIn](https://linkedin.com/in/lucazugic) | [ResearchGate](https://researchgate.net/profile/luca-zugic)
