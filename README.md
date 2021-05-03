@@ -3,7 +3,7 @@ I am a computer science student who loves working with data.
 I have a background in neuroscience as a student, researcher, and programmer.
 
 ### My interests
-I am interested in contributing to free and open source projects which could use someone with my combination and skills.
+I am interested in contributing to free and open source projects which could use someone with my combination of skills.
 Further, I am open to be contacted about job or PhD oppurtunities for the coming fall.
 
 ### About this page
