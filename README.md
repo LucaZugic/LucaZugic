@@ -8,7 +8,8 @@ I am interested in contributing to free and open source projects which could use
 Further, I am open to be contacted about job or PhD oppurtunities for the coming fall.
 
 ### Currently I am working on...
-[taxcompare.pythonanywhere.com](https://taxcompare.pythonanywhere.com) a website which allows users to compare the income tax for different salaries based on factors such as location or marrital status (latter not yet implemented).
+[taxcompare.pythonanywhere.com](https://taxcompare.pythonanywhere.com)
+A website which allows users to compare the income tax for different salaries based on factors such as location or marrital status (latter not yet implemented).
 ![TaxCompare screenshot](https://repository-images.githubusercontent.com/364056999/043d2280-adea-11eb-9bfa-68818fa8689a)
 
 ### If you are working with EEGs, you might find this tool useful
