@@ -1,6 +1,7 @@
 ### About me
 I am a computer science student who enjoys working with data, on the front- and backen.
-I have a background in neuroscience as a student, researcher, and programmer.
+I have a background in neuroscience 🧠 as a student, researcher, and programmer.
+My favorite technologies include Python, Django, Flask, and the GNU/Linux OS.
 
 ### My interests
 
