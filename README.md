@@ -1,5 +1,5 @@
 ### About me
-I am a computer science student who enjoys working with data, on the front- and backen.
+I am a computer science student who enjoys working with data, on the front- and backend.
 I have a background in neuroscience 🧠 as a student, researcher, and programmer.
 My favorite technologies include Python, Django, Flask, Java, and the GNU/Linux OS.
 
