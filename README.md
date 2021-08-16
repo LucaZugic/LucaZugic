@@ -1,4 +1,4 @@
-#### Hi, I like making web applications and tools for interesting projects and companies.
+#### Hi, I love working with data.
 #### Find me on:
 ### [Website](https://lucazugic.github.io) | [LinkedIn](https://linkedin.com/in/lucazugic) | [ResearchGate](https://researchgate.net/profile/luca-zugic)
 #### Or send me an email at:
