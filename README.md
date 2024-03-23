@@ -1,6 +1,6 @@
 ### About me
 
-😄 Pronouns: he / him
+Pronouns: he / him
 
 [Personal Website](https://lucazugic.github.io/)
 <!--
