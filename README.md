@@ -8,6 +8,5 @@ Spoken languages: English, German, and a bit of Spanish <br>
 Pronouns: he / him
 
 #### Find my:
-[LinkedIn](https://www.linkedin.com/in/lucazugic/)
-
+[LinkedIn](https://www.linkedin.com/in/lucazugic/) <br>
 [Personal Website](https://lucazugic.github.io/)
