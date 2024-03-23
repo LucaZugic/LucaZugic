@@ -1,5 +1,7 @@
-### Hi there 👋
+### About me
 
+😄 Pronouns: he / him
+![Personal Website](https://lucazugic.github.io/)
 <!--
 **LucaZugic/LucaZugic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
