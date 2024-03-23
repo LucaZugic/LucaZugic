@@ -7,4 +7,4 @@ Pronouns: he / him
 
 #### Find my:
 [LinkedIn](https://www.linkedin.com/in/lucazugic/) <br>
-[Personal Website](https://lucazugic.github.io/)
+![website_icon](https://github.com/LucaZugic/lucazugic.github.io/blob/main/coding_me.png)[Personal Website](https://lucazugic.github.io/)
