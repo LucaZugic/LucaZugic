@@ -2,8 +2,8 @@
 
 Pronouns: he / him
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
-
+#### Find my:
+[LinkedIn](https://www.linkedin.com/in/lucazugic/)
 [Personal Website](https://lucazugic.github.io/)
 <!--
 **LucaZugic/LucaZugic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
