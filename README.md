@@ -1,6 +1,5 @@
 ### About me
-I strive to achieve elegant and simple solutions. <br>
-My favourite frameworks are PySpark for data applications, and Flask for APIs and web applications.
+I am all about solving problems through collaboration and technology.
 
 Spoken languages: English, German, and a bit of Spanish
 
